@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# https://github.com/Nyr/wireguard-install
+#
 #
 # Copyright (c) 2020 Nyr. Released under the MIT License.
 
