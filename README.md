@@ -1,6 +1,6 @@
 # Script setup WireGuard VPN on ubuntu server 22.04 TLS.
 #### Chuẩn bị 1 VPS ubuntu 22.04 TLS.
-1. **SSH vào VPS bằng terminal hoặc các phần mèm chuyên dụng: ssh user@you-ip**
+1. **SSH vào VPS bằng terminal hoặc các phần mềm chuyên dụng: ssh user@you-ip**
 2. **Cập nhật hệ thống:**
    - **Lệnh**:
      ```bash
@@ -44,4 +44,5 @@ Chú ý:
 - Script sẽ tự động lấy địa chỉ IP công khai của máy chủ và điền vào file cấu hình client.
 - Đảm bảo rằng máy chủ của bạn có kết nối Internet để script có thể hoạt động đúng cách.
 - File cấu hình client sẽ được tạo tại /etc/wireguard/clients/ Bạn có thể copy file này sang thiết bị client và import vào ứng dụng WireGuard.
+- Liên hệ https://t.me/quangtrangvn or mail: ad@networkz.vn tôi sẽ giúp bạn nếu rảnh (không thu phí).
 # Chúc bạn thành công!
