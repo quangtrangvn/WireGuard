@@ -43,5 +43,5 @@ Tạo file script
 Chú ý:
 - Script sẽ tự động lấy địa chỉ IP công khai của máy chủ và điền vào file cấu hình client.
 - Đảm bảo rằng máy chủ của bạn có kết nối Internet để script có thể hoạt động đúng cách.
-- File cấu hình client sẽ được tạo tại /etc/wireguard/client.conf. Bạn có thể copy file này sang thiết bị client và import vào ứng dụng WireGuard.
+- File cấu hình client sẽ được tạo tại /etc/wireguard/clients/ Bạn có thể copy file này sang thiết bị client và import vào ứng dụng WireGuard.
 # Chúc bạn thành công!
