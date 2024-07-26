@@ -4,9 +4,6 @@
 2. **Cập nhật hệ thống:**
    - **Lệnh**:
      ```bash
-     sudo apt-get update -y
-     ```
-     ```bash
      sudo apt update && sudo apt upgrade -y && sudo apt full-upgrade -y && sudo apt autoremove -y
      ```
 3. **Script cài đặt:**
@@ -24,10 +21,6 @@
    - Script cài đặt WireGuard và tạo nhiều client
 Lưu ý: Đảm bảo rằng bạn đã cài đặt WireGuard trước khi chạy script này.
 Tạo file script 
-   - **Lệnh**:
-     ```bash
-     sudo apt-get install wget -y
-     ```
    - **Lệnh**:
      ```bash
      wget -qO- https://raw.githubusercontent.com/quangtrangvn/WireGuard/main/create-multiple-clients.sh -O create-multiple-clients.sh
