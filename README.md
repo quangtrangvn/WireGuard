@@ -4,7 +4,7 @@
 2. **Cập nhật hệ thống:**
    - **Lệnh**:
      ```bash
-     sudo apt update && sudo apt upgrade -y && sudo apt full-upgrade -y && sudo apt autoremove -y
+     sudo apt update && sudo apt upgrade -y
      ```
 3. **Script cài đặt:**
    - **Lệnh**:
